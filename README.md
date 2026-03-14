@@ -1,13 +1,18 @@
 # 👟 Shoe Website
 
-A modern and responsive **product landing page** built using **HTML and CSS**.
-This project showcases a stylish shoe product with a clean layout and modern UI design.
+A modern and responsive product landing page built using HTML and CSS.
 
 ---
 
 ## 🌍 Live Demo
 
 🔗 https://nailaazeri-svg.github.io/shoe-website/
+
+---
+
+## 📸 Preview
+
+![Shoe Website Preview](images/nike.png)
 
 ---
 
@@ -19,37 +24,25 @@ This project showcases a stylish shoe product with a clean layout and modern UI 
 
 ## 🛠 Technologies Used
 
-* HTML5
-* CSS3
-* Responsive Design
+HTML5  
+CSS3  
+Responsive Design  
 
 ---
 
 ## ✨ Features
 
-* Modern landing page layout
-* Product showcase design
-* Promotional video integration
-* Responsive structure
-* Clean and minimal UI
-
----
-
-## 📂 Project Structure
-
-shoe-website
-
-├── images
-├── shoe-video.mp4
-
-├── index.html
-├── style.css
-└── README.md
+Modern landing page layout  
+Product showcase design  
+Promotional video integration  
+Responsive structure  
+Clean and minimal UI  
 
 ---
 
 ## 👩‍💻 Author
 
-**Naila Azeri**
-Frontend Developer
+Naila Azeri  
+Frontend Developer  
 🚀 Next Gen Coding Leader
+
